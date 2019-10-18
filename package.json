@@ -16,7 +16,7 @@
     "body-parser": "^1.16.1",
     "co": "^4.6.0",
     "co-monk": "^1.0.0",
-    "csv-parse": "^1.2.0",
+    "csv-parse": "^4.4.6",
     "eslint": "^3.15.0",
     "express": "^4.14.1",
     "iconv-lite": "^0.4.16",
