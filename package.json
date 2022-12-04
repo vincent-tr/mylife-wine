@@ -42,7 +42,7 @@
     "serve-static": "^1.11.2",
     "server-destroy": "^1.0.1",
     "superagent": "^3.4.2",
-    "webpack": "^1.14.0",
+    "webpack": "^5.75.0",
     "webpack-dev-middleware": "^1.10.0"
   },
   "devDependencies": {
