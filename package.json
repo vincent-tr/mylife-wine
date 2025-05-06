@@ -43,12 +43,12 @@
     "server-destroy": "^1.0.1",
     "superagent": "^3.4.2",
     "webpack": "^5.75.0",
-    "webpack-dev-middleware": "^1.10.0"
+    "webpack-dev-middleware": "^5.3.4"
   },
   "devDependencies": {
     "eslint": "^8.29.0",
     "eslint-plugin-react": "^6.7.1",
-    "webpack-dev-middleware": "^1.9.0"
+    "webpack-dev-middleware": "^5.3.4"
   },
   "scripts": {
     "lint": "eslint lib/* public/app/*",
